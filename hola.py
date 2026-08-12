@@ -1,4 +1,4 @@
-print("Hola Mundo")
+print("Hola Mundos")
 print("Hola Mundo")
 
 nombre = input("¿Cómo te llamás? ")
